@@ -1,0 +1,21 @@
+{
+  "name": "ru.coderco.mesheditorplus",
+  "displayName": "CoderScripts - MeshEditorPlus",
+  "version": "1.0.0",
+  "description": "MeshEditorPlus",
+  "url": "https://github.com/CoderCoV/MeshEditorPlus",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "type": "tool",
+  "keywords": [
+    "CoderCo",
+    "CoderScripts"
+  ],
+  "author": {
+    "name": "CoderCo",
+    "email": "coder.co@bk.ru",
+    "url": "https://coderco.space"
+  }
+}
