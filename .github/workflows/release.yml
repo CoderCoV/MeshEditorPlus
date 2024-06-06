@@ -7,10 +7,10 @@ on:
     paths: package.json
 
 env:
-  packageName: "ru.coderco.animationpatches"
-  packagePath: "Packages/ru.coderco.animationpatches"
-  packageFileName: "AnimationPatches"
-  packageReleaseName: "AnimationPatches"
+  packageName: "ru.coderco.mesheditorplus"
+  packagePath: "Packages/ru.coderco.mesheditorplus"
+  packageFileName: "MeshEditorPlus"
+  packageReleaseName: "MeshEditorPlus"
   triggerRepoUpdate: ${{ false }}
 
 permissions:
